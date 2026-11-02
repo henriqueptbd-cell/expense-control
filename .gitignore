@@ -1,0 +1,21 @@
+# Android
+local.properties
+*.iml
+.gradle/
+.idea/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+
+# Assinatura (NUNCA commitar)
+*.keystore
+*.jks
+keystore.properties
+
+# Sistema
+.DS_Store
+Thumbs.db
